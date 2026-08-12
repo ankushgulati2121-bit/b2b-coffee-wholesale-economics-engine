@@ -24,10 +24,12 @@ Evaluating account profitability solely on gross bean margin often obscures the 
 ## Visualizations
 
 ### Account Viability & Equipment Payback Analysis
-![Account Viability](images/account_viability_scatter.png)
+<img width="1118" height="369" alt="account_viability_scatter png" src="https://github.com/user-attachments/assets/75acf48f-f8d1-4cf4-aea9-5d1ebf689ba4" />
+
 
 ### Commercial Margin Sensitivity Heatmap
-![Margin Sensitivity Heatmap](images/margin_sensitivity_heatmap.png)
+<img width="725" height="453" alt="margin_sensitivity_heatmap png" src="https://github.com/user-attachments/assets/2017afa3-f0d3-4a67-a482-ba6d6a2d5402" />
+
 
 ---
 
