@@ -1,5 +1,5 @@
 # B2B Specialty Coffee Wholesale Pricing & Account Economics Engine
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ankushgulati2121-bit/b2b-coffee-wholesale-economics-engine/blob/main/B2B_Wholesale_Pricing_Engine.ipynb)
 A commercial decision engine built in Python to evaluate B2B wholesale account profitability, equipment CAPEX payback timelines, and logistics cost-to-serve across regional hospitality accounts in New Zealand.
 
 ---
